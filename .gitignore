@@ -1,0 +1,5 @@
+.windsurf
+.pytest*
+__pycache__
+notebooks
+

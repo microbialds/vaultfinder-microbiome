@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+faiss-cpu
+duckdb
+click
+fastapi
+uvicorn
+pytest
+transformers
+torch
+einops
